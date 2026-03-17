@@ -1,48 +1,43 @@
-# 🛰️ Dashboard Industriel : Planning de l'Affaire 2025-2026
+# 🛰️ PLANNING DE RÉALISATION | AFFAIRE 2025-2026
 
-| PROJET / PHASE | S | O | N | D | J | F | M | A | M | J | PROGRESSION |
+| PHASES DU PROJET | SEPT | OCT | NOV | DEC | JAN | FEB | MAR | APR | MAY | JUN | PROGRESSION |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **PROJET A : ANALYSE** | | | | | | | | | | | |
-| 1. Assimilation CCH | 🟩 | | | | | | | | | | `100%` |
-| 2. Trames Comparaison | | 🟩 | 🟩 | | | | | | | | `100%` |
-| 3. Collecte REX | | | 🟦 | 🟦 | 🟩 | | | | | | `100%` |
+| 1. Assimilation CCH | 🟩🟩 | | | | | | | | | | `100%` |
+| 2. Trames Comparaison | | 🟩🟩 | 🟩🟩 | | | | | | | | `100%` |
+| 3. Collecte REX | | | ███ | ███ | 🟩🟩 | | | | | | `100%` |
 | **PROJET A : SÛRETÉ** | | | | | | | | | | | |
-| 4. Analyse Impact | | | | | 🟥 | 🟥 | 🟩 | | | | `100%` |
+| 4. Analyse Impact | | | | | 🟥🟥 | 🟥🟥 | 🟩🟩 | | | | `100%` |
 | **PROJET A : PILOTAGE** | | | | | | | | | | | |
-| 5. Support Chantier | | | | | | | 🟦 | ██ | ██ | | `45%` |
-| 6. Dashboard KPI | | | | | | | | 🟦 | ██ | ██ | `15%` |
+| 5. Support Chantier | | | | | | | ███ | ███ | ███ | | `45%` |
+| 6. Dashboard KPI | | | | | | | | ███ | ███ | ███ | `15%` |
 | **PROJET B : TECHNIQUE** | | | | | | | | | | | |
-| 7. Rédaction Notes BT | | | | | | | 🟧 | ██ | ██ | ██ | `20%` |
+| 7. Rédaction Notes BT | | | | | | | 🟧🟧 | ███ | ███ | ███ | `20%` |
 
 ---
 
-### 🟢 État d'Avancement Réel (Gantt Chart Style)
+## 📊 VUE SYNTHÉTIQUE DE L'AVANCEMENT
 
-**PROJET A : Études & Support** `████████████████████████████████░░░░░░░░` **80%**
+### **PROJET A** (Expertise & Sûreté)
+`██████████████████████████████████████████████████░░░░░░░░░░` **80%**
 
-**PROJET B : Dossier Technique** `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **20%**
-
----
-
-### 🛡️ JALONS STRATÉGIQUES (MILESTONES)
-- [x] **M1 :** Assimilation & CCH (Sept 2025)
-- [x] **M2 :** Verrouillage Données REX (Jan 2026)
-- [x] **M3 :** Analyse de Sûreté Validée (Mars 2026)
-- [ ] **M4 :** Livraison Finale Dashboard (Juin 2026)
-- [ ] **M5 :** Approbation Notes BT (Juin 2026)
+### **PROJET B** (Ingénierie BT)
+`████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` **20%**
 
 ---
 
-### 📋 NOTES DE PILOTAGE
-> [!IMPORTANT]  
-> **Alerte Charge :** Le mois d'avril (A) présente un pic d'activité avec le cumul du Support Chantier, du Dashboard et des Notes BT.
-
-| SYMBOLE | SIGNIFICATION |
-| :--- | :--- |
-| 🟩 | Phase terminée avec succès |
-| ██ | Travail en cours (Actif) |
-| 🟥 | Zone de criticité Sûreté |
-| 🟧 | Projet B (Technique) |
+### 📅 RÉCAPITULATIF DES ÉCHÉANCES
+* **SEPT 2025** : Analyse initiale des contraintes CCH terminée.
+* **JANV 2026** : Consolidation finale du REX Longueurs.
+* **MARS 2026** : **JALON CRITIQUE** - Validation de la Note d'Impact Sûreté.
+* **JUIN 2026** : Clôture du Dashboard et livraison des Notes BT.
 
 ---
-<p align="right"><i>Mis à jour le 17 Mars 2026</i></p>
+
+> [!NOTE]
+> **Lecture du Gantt :**
+> - Les barres **vertes** (`🟩`) indiquent des phases finalisées et validées.
+> - Les barres **bleues/oranges** (`███`) indiquent les périodes d'activité intensive.
+> - La zone **rouge** (`🟥`) identifie le tunnel critique de l'analyse de sûreté.
+
+<p align="right"><i>Dernière mise à jour : 17 Mars 2026</i></p>
