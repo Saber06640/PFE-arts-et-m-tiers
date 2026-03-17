@@ -1,44 +1,33 @@
-# 🛰️ Dashboard de l'Affaire | 2025 - 2026
+# 📊 PLANNING DE L'AFFAIRE | 2025 - 2026
 
-> **Statut Global :** `EN COURS` 🏗️ | **Dernière MAJ :** 17/03/2026
+> **Légende :** 🟦 Projet A | 🟧 Projet B | 🟩 Terminé | 🟥 Critique
 
----
-
-### 🏗️ PROJET A : ANALYSE & OPÉRATIONNEL
-| Phase | Période | État |
-| :--- | :---: | :--- |
-| **01. CCH & Analyse** | 09/25 | ✅ Fait |
-| **02. Trames de Comparaison** | 10-11/25 | ✅ Fait |
-| **03. Collecte REX** | 11/25-01/26 | ✅ Fait |
-| **04. Analyse Sûreté** | 01-03/26 | 🏁 Terminé |
-| **05. Support Chantier** | 03-05/26 | 🔵 En cours |
-| **06. Dashboard** | 04-06/26 | 🗓️ Planifié |
-
----
-
-### 📝 PROJET B : INGÉNIERIE TECHNIQUE
-**Rédaction Technique (Notes BT)**
-- **Échéance :** 30 Juin 2026
-- **Progression :** `████░░░░░░░░░░░░░░░░ 20%`
+| Phase / Mois | 09 | 10 | 11 | 12 | 01 | 02 | 03 | 04 | 05 | 06 | Statut |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **PROJET A : ANALYSE** | | | | | | | | | | | |
+| 1. Assimilation CCH | 🟩 | | | | | | | | | | 100% |
+| 2. Trames Comparaison | | 🟩 | 🟩 | | | | | | | | 100% |
+| 3. Collecte REX | | | 🟦 | 🟦 | 🟩 | | | | | | 100% |
+| **PROJET A : OPÉRATION** | | | | | | | | | | | |
+| 4. Analyse Sûreté | | | | | 🟥 | 🟥 | 🟩 | | | | 100% |
+| 5. Support Chantier | | | | | | | 🟦 | 🟦 | 🟦 | | 40% |
+| 6. Dashboard Pilotage | | | | | | | | 🟦 | 🟦 | 🟦 | 10% |
+| **PROJET B : TECHNIQUE** | | | | | | | | | | | |
+| 7. Rédaction Notes BT | | | | | | | 🟧 | 🟧 | 🟧 | 🟧 | 20% |
 
 ---
 
-### 🎯 JALONS CRITIQUES
-- [x] **M1 :** Fin de Collecte REX
-- [x] **M2 :** Verrouillage Analyse Sûreté
-- [ ] **M3 :** Livraison Dashboard Final
-- [ ] **M4 :** Approbation Notes BT
+### 🚀 État d'avancement des Jalons
+
+- [x] **Sept 2025** : Lancement & Assimilation CCH
+- [x] **Janv 2026** : Fin de collecte des données REX
+- [x] **15 Mars 2026** : Verrouillage de la Note d'Impact Sûreté 🛡️
+- [ ] **Juin 2026** : Livraison finale et approbation Notes BT
 
 ---
 
-### ⚠️ RISQUES & ATTENTION
-| Gravité | Sujet | Impact / Plan d'action |
-| :---: | :--- | :--- |
-| 🔴 | **Sûreté** | Analyse terminée le 15/03/2026 - Signature en attente. |
-| 🟡 | **Charge** | Parallélisation Projet A/B critique en Avril. |
+### 📈 Charge de Travail Estimée
+- **Avril - Mai** : `Période de forte activité` (Cumul Support Chantier + Rédaction BT)
+- **Ressources** : 100% mobilisées sur le Projet B à partir de Juin.
 
 ---
-
-### 📊 RÉCAPITULATIF
-- **Projet A :** `████████████████░░░░ 80%`
-- **Projet B :** `████░░░░░░░░░░░░░░░░ 20%`
