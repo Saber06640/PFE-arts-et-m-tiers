@@ -1,16 +1,44 @@
-gantt
-    title Planning PFE - Arts et Métiers
-    dateFormat  YYYY-MM-DD
-    axisFormat  %m / %Y
+# 🛰️ Dashboard de l'Affaire | 2025 - 2026
 
-    section Étude & Conception
-    Analyse de l'existant (50%) :active, a1, 2025-09-01, 2026-01-15
-    Cahier des charges (25%)    :a2, 2025-11-01, 2026-02-15
+> **Statut Global :** `EN COURS` 🏗️ | **Dernière MAJ :** 17/03/2026
 
-    section Réalisation
-    Développement Module 1 (50%) :crit, d1, 2026-03-01, 2026-06-30
-    Tests et Validation          :d2, 2026-05-01, 2026-07-15
+---
 
-    section Jalons
-    Soutenance Mi-Parcours       :milestone, m1, 2026-02-15, 0d
-    Rendu Rapport Final          :milestone, m2, 2026-08-30, 0d
+### 🏗️ PROJET A : ANALYSE & OPÉRATIONNEL
+| Phase | Période | État |
+| :--- | :---: | :--- |
+| **01. CCH & Analyse** | 09/25 | ✅ Fait |
+| **02. Trames de Comparaison** | 10-11/25 | ✅ Fait |
+| **03. Collecte REX** | 11/25-01/26 | ✅ Fait |
+| **04. Analyse Sûreté** | 01-03/26 | 🏁 Terminé |
+| **05. Support Chantier** | 03-05/26 | 🔵 En cours |
+| **06. Dashboard** | 04-06/26 | 🗓️ Planifié |
+
+---
+
+### 📝 PROJET B : INGÉNIERIE TECHNIQUE
+**Rédaction Technique (Notes BT)**
+- **Échéance :** 30 Juin 2026
+- **Progression :** `████░░░░░░░░░░░░░░░░ 20%`
+
+---
+
+### 🎯 JALONS CRITIQUES
+- [x] **M1 :** Fin de Collecte REX
+- [x] **M2 :** Verrouillage Analyse Sûreté
+- [ ] **M3 :** Livraison Dashboard Final
+- [ ] **M4 :** Approbation Notes BT
+
+---
+
+### ⚠️ RISQUES & ATTENTION
+| Gravité | Sujet | Impact / Plan d'action |
+| :---: | :--- | :--- |
+| 🔴 | **Sûreté** | Analyse terminée le 15/03/2026 - Signature en attente. |
+| 🟡 | **Charge** | Parallélisation Projet A/B critique en Avril. |
+
+---
+
+### 📊 RÉCAPITULATIF
+- **Projet A :** `████████████████░░░░ 80%`
+- **Projet B :** `████░░░░░░░░░░░░░░░░ 20%`
