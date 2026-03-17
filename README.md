@@ -1,33 +1,58 @@
-# 📊 PLANNING DE L'AFFAIRE | 2025 - 2026
+# <img src="https://raw.githubusercontent.com/TarikSavage/Jetbrains-Discord-Integration/master/assets/icons/clion.png" width="30"> Dashboard Affaire : PFE Arts-et-Métiers
 
-> **Légende :** 🟦 Projet A | 🟧 Projet B | 🟩 Terminé | 🟥 Critique
+<p align="left">
+  <img src="https://img.shields.io/badge/Statut-En_Cours-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Echéance-Juin_2026-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sûreté-Validée-success?style=for-the-badge">
+</p>
 
-| Phase / Mois | 09 | 10 | 11 | 12 | 01 | 02 | 03 | 04 | 05 | 06 | Statut |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+---
+
+## 📅 Planning de l'Affaire (Vision Gantt)
+
+| 🟢 Terminé | 🔵 En cours | 🟠 Projet B | 🔴 Critique |
+| :--- | :--- | :--- | :--- |
+
+| Phase / Mois | S | O | N | D | J | F | M | A | M | J | % |
+| :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--- |
 | **PROJET A : ANALYSE** | | | | | | | | | | | |
-| 1. Assimilation CCH | 🟩 | | | | | | | | | | 100% |
-| 2. Trames Comparaison | | 🟩 | 🟩 | | | | | | | | 100% |
-| 3. Collecte REX | | | 🟦 | 🟦 | 🟩 | | | | | | 100% |
-| **PROJET A : OPÉRATION** | | | | | | | | | | | |
-| 4. Analyse Sûreté | | | | | 🟥 | 🟥 | 🟩 | | | | 100% |
-| 5. Support Chantier | | | | | | | 🟦 | 🟦 | 🟦 | | 40% |
-| 6. Dashboard Pilotage | | | | | | | | 🟦 | 🟦 | 🟦 | 10% |
+| 1. Assimilation CCH | 🟩 | | | | | | | | | | `100` |
+| 2. Trames Comparaison | | 🟩 | 🟩 | | | | | | | | `100` |
+| 3. Collecte REX | | | 🔵 | 🔵 | 🟩 | | | | | | `100` |
+| **PROJET A : SÛRETÉ** | | | | | | | | | | | |
+| 4. Analyse Impact | | | | | 🔴 | 🔴 | 🟩 | | | | `100` |
+| **PROJET A : PILOTAGE** | | | | | | | | | | | |
+| 5. Support Chantier | | | | | | | 🔵 | 🔵 | 🔵 | | `45` |
+| 6. Dashboard KPI | | | | | | | | 🔵 | 🔵 | 🔵 | `15` |
 | **PROJET B : TECHNIQUE** | | | | | | | | | | | |
-| 7. Rédaction Notes BT | | | | | | | 🟧 | 🟧 | 🟧 | 🟧 | 20% |
+| 7. Rédaction Notes BT | | | | | | | 🟠 | 🟠 | 🟠 | 🟠 | `20` |
 
 ---
 
-### 🚀 État d'avancement des Jalons
+## 📊 Avancement des Livrables
 
-- [x] **Sept 2025** : Lancement & Assimilation CCH
-- [x] **Janv 2026** : Fin de collecte des données REX
-- [x] **15 Mars 2026** : Verrouillage de la Note d'Impact Sûreté 🛡️
-- [ ] **Juin 2026** : Livraison finale et approbation Notes BT
+**Projet A (Analyse & Pilotage)**
+> `████████████████░░░░` **80%**
+
+**Projet B (Ingénierie BT)**
+> `████░░░░░░░░░░░░░░░░` **20%**
+
+---
+
+## 🛡️ Jalons Critiques (Milestones)
+
+- [x] **Assimilation Technique** (Sept 2025)
+- [x] **Clôture Base de Données REX** (Jan 2026)
+- [x] **Verrouillage Note de Sûreté** (Mars 2026)
+- [ ] **Approbation Finale Dossier BT** (Juin 2026)
 
 ---
 
-### 📈 Charge de Travail Estimée
-- **Avril - Mai** : `Période de forte activité` (Cumul Support Chantier + Rédaction BT)
-- **Ressources** : 100% mobilisées sur le Projet B à partir de Juin.
+### 💡 Notes de Direction
+* **Ressources :** Basculement de l'effort sur la rédaction des **Notes BT** à partir de mi-avril.
+* **Point de vigilance :** La phase de support chantier doit rester en cohérence avec les indicateurs du Dashboard (Phase 6).
 
 ---
+<p align="center">
+  <i>Document confidentiel - Suivi de projet PFE 2026</i>
+</p>
